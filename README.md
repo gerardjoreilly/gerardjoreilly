@@ -1,10 +1,10 @@
 <!-- Your badges -->
 
-[![Linkedin](https://img.shields.io/badge/-davit-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/davitshahnazaryan/](https://www.linkedin.com/in/gerard-o-reilly-19601732/))
-[![Gmail](https://img.shields.io/badge/-davit-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gerard.oreilly@iusspavia.it)
-[![Github](https://img.shields.io/badge/-davit-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/gerardjoreilly)
-[![Orcid](https://img.shields.io/badge/-davit-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0001-5497-030X)
-[![Researchgate](https://img.shields.io/badge/-davit-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Gerard-Oreilly-2)
+[![Linkedin](https://img.shields.io/badge/-gerard-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/davitshahnazaryan/](https://www.linkedin.com/in/gerard-o-reilly-19601732/))
+[![Gmail](https://img.shields.io/badge/-gerard-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gerard.oreilly@iusspavia.it)
+[![Github](https://img.shields.io/badge/-gerard-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/gerardjoreilly)
+[![Orcid](https://img.shields.io/badge/-gerard-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0001-5497-030X)
+[![Researchgate](https://img.shields.io/badge/-gerard-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Gerard-Oreilly-2)
 
 <!-- Profile View Count and GitStats -->
 
