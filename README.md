@@ -1,11 +1,4 @@
 <!-- Your badges -->
-
-[![Linkedin](https://img.shields.io/badge/-gerard-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/davitshahnazaryan/](https://www.linkedin.com/in/gerard-o-reilly-19601732/))
-[![Gmail](https://img.shields.io/badge/-gerard-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gerard.oreilly@iusspavia.it)
-[![Github](https://img.shields.io/badge/-gerard-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/gerardjoreilly)
-[![Orcid](https://img.shields.io/badge/-gerard-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0001-5497-030X)
-[![Researchgate](https://img.shields.io/badge/-gerard-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Gerard-Oreilly-2)
-
 <!-- Profile View Count and GitStats -->
 
 ### Hi, I am Gerard 
@@ -15,12 +8,26 @@
 - Check out our my personal website <a href="https://gerardjoreilly.github.io/">HERE</a>
 - If you are interested in some of the apps and services, check our company website <a href="https://www.djura.it">Djura Risk, Engineering & Data</a> and <a href="https://github.com/djura-risk-data-engineering">GitHub</a>
 
+### 💬 Contact
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/davitshahnazaryan/](https://www.linkedin.com/in/gerard-o-reilly-19601732/))
+[![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gerard.oreilly@iusspavia.it)
 
+### 📜 Research
+[![Github](https://img.shields.io/badge/-Github-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/gerardjoreilly)
+[![Orcid](https://img.shields.io/badge/-Orcid-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0001-5497-030X)
+[![Researchgate](https://img.shields.io/badge/-Researchgate-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Gerard-Oreilly-2)
+
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Programming
 <p>
-<a href="https://github.com/davitshahnazaryan3">
-  <img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=davitshahnazaryan3&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
-<!--  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davitshahnazaryan3&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515"> -->
+<a href="https://github.com/gerardjoreilly">
+  <img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gerardjoreilly&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
 </a>
 </p>
+
+### 📈 Stats
+
+</a>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gerardjoreilly&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
+</a>
 
 <br>
