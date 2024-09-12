@@ -5,8 +5,8 @@
 
 - 🔭 I’m currently an Associate Professor of Seismic Risk and Structural Engineering at <a href="https://www.iusspavia.it/it">IUSS Pavia</a>
 - 📫 How to reach me: gerard.oreilly@iusspavia.it
-- Check out our my personal website <a href="https://gerardjoreilly.github.io/">HERE</a>
-- If you are interested in some of the apps and services, check our company website <a href="https://www.djura.it">Djura Risk, Engineering & Data</a> and <a href="https://github.com/djura-risk-data-engineering">GitHub</a>
+- Check out my personal website <a href="https://gerardjoreilly.github.io/">HERE</a>
+- If you are interested in some apps and services, check our company website <a href="https://www.djura.it">Djura Risk, Engineering & Data</a> and <a href="https://github.com/djura-risk-data-engineering">GitHub</a>
 
 ### 💬 Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/davitshahnazaryan/](https://www.linkedin.com/in/gerard-o-reilly-19601732/))
