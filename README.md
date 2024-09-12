@@ -17,17 +17,4 @@
 [![Orcid](https://img.shields.io/badge/-Orcid-white?style=flat&labelColor=white&logo=orcid&logoColor=green)](https://orcid.org/0000-0001-5497-030X)
 [![Researchgate](https://img.shields.io/badge/-Researchgate-green?style=flat&labelColor=green&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Gerard-Oreilly-2)
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Programming
-<p>
-<a href="https://github.com/gerardjoreilly">
-  <img height="120em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gerardjoreilly&theme=buefy&layout=compact&title_color=ffffff&bg_color=151515&text_color=FFFEFE">
-</a>
-</p>
-
-### 📈 Stats
-
-</a>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gerardjoreilly&&show_icons=true&title_color=ffffff&icon_color=ffdc40&text_color=ffffff&bg_color=151515">
-</a>
-
 <br>
