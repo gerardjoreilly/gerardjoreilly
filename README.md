@@ -9,7 +9,7 @@
 - If you are interested in some of the apps and services, check our company website <a href="https://www.djura.it">Djura Risk, Engineering & Data</a> and <a href="https://github.com/djura-risk-data-engineering">GitHub</a>
 
 ### 💬 Contact
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/davitshahnazaryan/](https://www.linkedin.com/in/gerard-o-reilly-19601732/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/davitshahnazaryan/](https://www.linkedin.com/in/gerard-o-reilly-19601732/))
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:gerard.oreilly@iusspavia.it)
 
 ### 📜 Research
